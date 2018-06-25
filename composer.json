@@ -1,0 +1,16 @@
+{
+    "name": "fsaab/project-manager",
+    "description": "Project Manager application",
+    "authors": [
+        {
+            "name": "Fabricio Saab",
+            "email": "fabricio.saab@me.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FS\\Framework\\": "src"
+        }
+    }
+}
